@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Frontend Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/POOJAN311](https://github.com/POOJAN311)
+- 👨‍💻 All of my projects are available at **My Git Repo**
 
 - 📝 I often write articles on Medium [https://medium.com/@poojanpatel182](https://medium.com/@poojanpatel182)
 
