@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poojan311&label=Profile%20views&color=0e75b6&style=flat" alt="poojan311" /> </p>
 
-- 🔭 I’m currently working on **Portfolio Website**
+- 🔭 I’m currently working on **Javascript**
 
 - 🌱 I’m currently learning **ReactJS and Web Bootcamp 2023**
 
