@@ -10,9 +10,9 @@
 
 <h2>- 👯 I’m looking to collaborate on **Software Development**</h2>
 
-<h2>- 👨‍💻 All of my projects are available at [https://github.com/POOJAN311](https://github.com/POOJAN311)</h2>
+<h2>- 👨‍💻 All of my projects are available at [https://github.com/POOJAN311]</h2>
 
-<h2>- 📝 I often write articles on Medium [https://medium.com/@poojanpatel182](https://medium.com/@poojanpatel182)</h2>
+<h2>- 📝 I often write articles on Medium [https://medium.com/@poojanpatel182]</h2>
 
 <h2>- 💬 Ask me about **Frontend**</h2>
 
